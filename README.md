@@ -1,16 +1,17 @@
-### Hi there 👋
+### hi there :3c
 
-<!--
-**Schumann1237/schumann1237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- universiti utara malaysia (uum)
+- BsC Hons Decisional Science
+- I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
 
-Here are some ideas to get you started:
+what im learning 
+<br>
+![Static Badge](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=%2312492f) ![Static Badge](https://img.shields.io/badge/javascript%20-%20green?style=for-the-badge&logo=javascript&color=%230a2f35)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+software that im familiar with
+<br>
+![Static Badge](https://img.shields.io/badge/netbeans%20-%20black?style=for-the-badge&logo=apachenetbeanside&color=%23f56038) ![Static Badge](https://img.shields.io/badge/vscode%20-%20black?style=for-the-badge&logo=visualstudiocode&color=%23f7a325) ![Static Badge](https://img.shields.io/badge/pycharm%20-%20white?style=for-the-badge&logo=pycharm&color=%23ffca7a)
+
+
+
+
