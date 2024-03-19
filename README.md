@@ -2,7 +2,6 @@
 
 - universiti utara malaysia (uum)
 - BsC Hons Decisional Science
-- I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
 
 what im learning 
 <br>
