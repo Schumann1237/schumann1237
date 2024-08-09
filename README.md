@@ -4,7 +4,7 @@
 - 🧑‍🔬 Bachelor of Science (Decisional Science) with Honours
 - 💌 I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
 - 💻 Passionate about data, statistics, predictive and mathematical modelling.
-
+---
 ### 🛠️ Skillset
 
 <img align="left" alt="Visual Basic" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
