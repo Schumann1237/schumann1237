@@ -11,6 +11,7 @@
 <img align="left" alt="Python" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 #
+
 ### Learning :
 
 <img align="left" alt="C++" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
