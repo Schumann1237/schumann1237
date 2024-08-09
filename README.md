@@ -5,11 +5,17 @@
 - I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
 - My field of interest involves data, statistics, predictive and mathematical modelling.
 
-### Proficient in : 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,py,r,latex)](https://skillicons.dev)
+### Proficient in :
 
+<img align="left" alt="Visual Basic" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+<img align="left" alt="Python" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="R" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+          
 ### Learning :
-[![My Skills](https://skillicons.dev/icons?i=git,c,cpp)](https://skillicons.dev)
 
+<img align="left" alt="C++" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+          
 
 
