@@ -2,9 +2,8 @@
 
 - Student at Universiti Utara Malaysia (Northern University of Malaysia)
 - Bachelor of Science (Decisional Science) with Honours
-- i have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
-
-My field of interest involves data, statistics, predictive and mathematical modelling.
+- I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
+- My field of interest involves data, statistics, predictive and mathematical modelling.
 
 ### Proficient in : 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,r)](https://skillicons.dev)
