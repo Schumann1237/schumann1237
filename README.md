@@ -6,10 +6,10 @@
 
 My field of interest involves data, statistics, predictive and mathematical modelling.
 
-Proficient in : 
+###Proficient in : 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,r)](https://skillicons.dev)
 
-Learning : 
+###Learning :
 [![My Skills](https://skillicons.dev/icons?i=git,c,cpp)](https://skillicons.dev)
 
 
