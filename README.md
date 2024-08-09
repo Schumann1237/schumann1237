@@ -6,7 +6,7 @@
 
 My field of interest involves data, statistics, predictive and mathematical modelling.
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,py,r,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,r,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 
 
