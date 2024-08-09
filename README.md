@@ -1,17 +1,12 @@
-### hi there :3c
+### Hello there. The name is Isaac. Schumann or Schubert if you know me online.
 
-- universiti utara malaysia (uum)
-- BsC Hons Decisional Science
+- Student at Universiti Utara Malaysia (Northern University of Malaysia)
+- Bachelor of Science (Decisional Science) with Honours
 - i have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
 
-what im learning 
-<br>
-![Static Badge](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=%2312492f) ![Static Badge](https://img.shields.io/badge/javascript%20-%20green?style=for-the-badge&logo=javascript&color=%230a2f35)
+My field of interest involves data, statistics, predictive and mathematical modelling.
 
-software that im familiar with
-<br>
-![Static Badge](https://img.shields.io/badge/netbeans%20-%20black?style=for-the-badge&logo=apachenetbeanside&color=%23f56038) ![Static Badge](https://img.shields.io/badge/vscode%20-%20black?style=for-the-badge&logo=visualstudiocode&color=%23f7a325) ![Static Badge](https://img.shields.io/badge/pycharm%20-%20white?style=for-the-badge&logo=pycharm&color=%23ffca7a)
-
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,r,wasm)](https://skillicons.dev)
 
 
 
