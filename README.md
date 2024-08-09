@@ -2,8 +2,8 @@
 
 - 🎓 Student at Universiti Utara Malaysia (Northern University of Malaysia)
 - 🧑‍🔬 Bachelor of Science (Decisional Science) with Honours
-- 💻 I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
-- 💌 Passionate about data, statistics, predictive and mathematical modelling.
+- 💌 I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
+- 💻 Passionate about data, statistics, predictive and mathematical modelling.
 
 ### 🛠️ Skillset
 
