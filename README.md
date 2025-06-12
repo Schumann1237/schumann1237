@@ -3,7 +3,7 @@
 - 🎓 Student at Universiti Utara Malaysia (Northern University of Malaysia)
 - 🧑‍🔬 Bachelor of Science (Decisional Science) with Honours
 - 💌 I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
-- 💻 Passionate about data, statistics, predictive and mathematical modelling.
+- 💻 Passionate about data, statistics, predictive and mathematical modelling, and computers in general.
 ---
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
