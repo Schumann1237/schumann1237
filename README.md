@@ -1,15 +1,16 @@
-### 👋 Hello there. The name is Isaac. Schumann1237 or Schubert1237 if you know me online.
+### 👋 Hello there.
 
-- 🎓 Student at Universiti Utara Malaysia (Northern University of Malaysia)
-- 🧑‍🔬 Bachelor of Science (Decisional Science) with Honours
-- 💌 I have a huge crush on <a href="https://github.com/Phavanee"> this girl </a>
-- 💻 Passionate about data, statistics, predictive and mathematical modelling, and computers in general.
----
+Interests:
+- Low-level programming
+- AI/ML
+- Statistical/Mathematical Modelling
 
+### Tools
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoSize=auto&color=yellow)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim&logoSize=auto)
-![R](https://img.shields.io/badge/R-white?style=for-the-badge&logo=r&logoColor=%23276DC3&logoSize=auto)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=C%2B%2B)
 ![Visual Basic](https://img.shields.io/badge/visual%20basic-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=auto)
 ![Java](https://img.shields.io/badge/java-darkred?style=for-the-badge&logoSize=auto)
